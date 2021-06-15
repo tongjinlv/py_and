@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+app/release/MatataCode_release_v2.0.4.apk
+*.apk
+app/release/app-release.aab
+app/release/Shardir - 副本.exe
+app/src/main/assets/readme
+app/src/main/assets/.gitignore
